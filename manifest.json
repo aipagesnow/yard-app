@@ -1,0 +1,9 @@
+{
+  "name": "Yard",
+  "short_name": "Yard",
+  "description": "The shipyard for EVM builders.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0C1210",
+  "theme_color": "#0C1210"
+}
