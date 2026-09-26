@@ -1,0 +1,3 @@
+Create me a desktop app that also can be installed into a phone. The app will be a social media app that is for EVM blockchain crypto defi devs, it is a cross between github and X, so this is were devs can connect and share codes and repos and create projects togeather. Its like a build in public app but with features that help showcase trust and a way to track devs that are known for delivering top projects.
+
+This conversation belongs to a Grok project. The project's files are mounted at `/workspace/artifacts` — look there for user-provided sources before concluding the workspace has no project files. Files written there persist to the project across conversations.

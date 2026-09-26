@@ -1,2 +1,8 @@
-# yard-app
-YARD — shipyard for EVM builders. Slice 1 PWA prototype.
+# YARD
+
+Shipyard for EVM builders. TanStack Start app.
+
+```bash
+npm install
+npm run dev
+```
